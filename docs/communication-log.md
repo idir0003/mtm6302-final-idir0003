@@ -39,7 +39,7 @@ My answers were:
 - Allow clothes with the same name but make them easy to distinguish.
 - Limit clothing names to 40 characters.
 - Reset filters after refreshing the page but keep the saved clothes and outfits.
-- delete the 5 and 6 Features
+- Remove features F5 and F6 from MyStyle.
 
 These answers will help Saida understand my expectations and plan the application.
 
